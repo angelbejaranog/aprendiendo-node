@@ -1,0 +1,16 @@
+{
+  "name": "03-be-node",
+  "version": "1.0.0",
+  "description": "et e un pliccion de line",
+  "main": "pp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngel",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.1.0"
+  },
+  "devDependencies": {}
+}
